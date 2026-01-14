@@ -1,2 +1,4 @@
 # avalanche-fullstack-dapp
-short course TI
+Short Course TI
+
+Gabriel Othmar Danken Saskara - 221011401000 - 07TPLM009
